@@ -1,1 +1,7 @@
-# chideraani.github.io
+# Data Scientist
+
+## Work Experience
+- incoming
+
+## Education
+- incoming 
